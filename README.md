@@ -138,5 +138,7 @@ The following screenshot shows to change the icon of a node while expanding in [
 
 Take a moment to peruse the [WPF TreeView - Appearance](https://help.syncfusion.com/wpf/treeview/appearance) documentation, where you can find about appearance with code examples.
 
+KB article - [How to change the icon of a node when expanding in WPF TreeView (SfTreeView)?](https://www.syncfusion.com/kb/12587/how-to-change-the-icon-of-a-node-when-expanding-in-wpf-treeview-sftreeview)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
